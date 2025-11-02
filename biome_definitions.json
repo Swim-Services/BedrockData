@@ -4,6 +4,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.9,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -31,6 +32,7 @@
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.9,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -59,6 +61,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -84,6 +87,7 @@
         "blueSporeDensity": 0,
         "depth": 0,
         "downfall": 0.4,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -108,6 +112,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.6,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -134,6 +139,7 @@
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.6,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -161,6 +167,7 @@
         "blueSporeDensity": 0,
         "depth": 0.55,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -188,6 +195,7 @@
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.6,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -216,6 +224,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -241,6 +250,7 @@
         "blueSporeDensity": 0,
         "depth": 0,
         "downfall": 0.3,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -269,6 +279,7 @@
         "blueSporeDensity": 0,
         "depth": -1,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -294,6 +305,7 @@
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.4,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -322,6 +334,7 @@
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.4,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -352,6 +365,7 @@
         "blueSporeDensity": 0,
         "depth": 0.3,
         "downfall": 0.4,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -380,6 +394,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -406,6 +421,7 @@
         "blueSporeDensity": 0,
         "depth": -1.8,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -432,6 +448,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.4,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -457,6 +474,7 @@
         "blueSporeDensity": 0,
         "depth": -1.8,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -485,6 +503,7 @@
         "blueSporeDensity": 0,
         "depth": -1.8,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -511,6 +530,7 @@
         "blueSporeDensity": 0,
         "depth": -1.8,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -536,6 +556,7 @@
         "blueSporeDensity": 0,
         "depth": -1.8,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -562,6 +583,7 @@
         "blueSporeDensity": 0,
         "depth": 0.125,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -588,6 +610,7 @@
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -614,6 +637,7 @@
         "blueSporeDensity": 0,
         "depth": 0.225,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -640,6 +664,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -664,6 +689,7 @@
         "blueSporeDensity": 0,
         "depth": 1,
         "downfall": 0.3,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -689,6 +715,7 @@
         "blueSporeDensity": 0,
         "depth": 0.8,
         "downfall": 0.3,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -716,6 +743,7 @@
         "blueSporeDensity": 0,
         "depth": 1,
         "downfall": 0.3,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -742,6 +770,7 @@
         "blueSporeDensity": 0,
         "depth": 1,
         "downfall": 0.3,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -769,6 +798,7 @@
         "blueSporeDensity": 0,
         "depth": 1,
         "downfall": 0.3,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -796,6 +826,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -822,6 +853,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -847,6 +879,7 @@
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -873,6 +906,7 @@
         "blueSporeDensity": 0,
         "depth": -1,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -902,6 +936,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.9,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -931,6 +966,7 @@
         "blueSporeDensity": 0,
         "depth": -0.5,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -959,6 +995,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -988,6 +1025,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1017,6 +1055,7 @@
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1045,6 +1084,7 @@
         "blueSporeDensity": 0,
         "depth": 0.125,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1073,6 +1113,7 @@
         "blueSporeDensity": 0,
         "depth": 0.425,
         "downfall": 1,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -1101,6 +1142,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.9,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -1130,6 +1172,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.9,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1158,6 +1201,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1185,6 +1229,7 @@
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1213,6 +1258,7 @@
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.9,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1240,6 +1286,7 @@
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.9,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1266,6 +1313,7 @@
         "blueSporeDensity": 0,
         "depth": -1,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -1292,6 +1340,7 @@
         "blueSporeDensity": 0,
         "depth": -1,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1317,6 +1366,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -1342,6 +1392,7 @@
         "blueSporeDensity": 0,
         "depth": -0.2,
         "downfall": 0.9,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -1368,6 +1419,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -1393,6 +1445,7 @@
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1422,6 +1475,7 @@
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1450,6 +1504,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1476,6 +1531,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1503,6 +1559,7 @@
         "blueSporeDensity": 0,
         "depth": 1.5,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1531,6 +1588,7 @@
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1560,6 +1618,7 @@
         "blueSporeDensity": 0,
         "depth": 1.5,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1589,6 +1648,7 @@
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1617,6 +1677,7 @@
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 1,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1640,6 +1701,7 @@
         "blueSporeDensity": 0,
         "depth": 0,
         "downfall": 1,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1664,6 +1726,7 @@
         "blueSporeDensity": 0,
         "depth": -1,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1687,6 +1750,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -1710,6 +1774,7 @@
         "blueSporeDensity": 0,
         "depth": 0.125,
         "downfall": 0.4,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1735,6 +1800,7 @@
         "blueSporeDensity": 0,
         "depth": 0.55,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1764,6 +1830,7 @@
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1793,6 +1860,7 @@
         "blueSporeDensity": 0,
         "depth": -0.5,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1818,6 +1886,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1844,6 +1913,7 @@
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1870,6 +1940,7 @@
         "blueSporeDensity": 0,
         "depth": 0.125,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1896,6 +1967,7 @@
         "blueSporeDensity": 0,
         "depth": 0.363,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -1923,6 +1995,7 @@
         "blueSporeDensity": 0,
         "depth": 1.5,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -1950,6 +2023,7 @@
         "blueSporeDensity": 0,
         "depth": 1.05,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -1978,6 +2052,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.9,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -2007,6 +2082,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -2032,6 +2108,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.3,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -2056,6 +2133,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.3,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -2080,6 +2158,7 @@
         "blueSporeDensity": 0,
         "depth": 0.125,
         "downfall": 0.4,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 166,
@@ -2106,6 +2185,7 @@
         "blueSporeDensity": 0,
         "depth": -0.2,
         "downfall": 0.9,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -2131,6 +2211,7 @@
         "blueSporeDensity": 0,
         "depth": -0.1,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -2157,6 +2238,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -2184,6 +2266,7 @@
         "blueSporeDensity": 0,
         "depth": 0.45,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -2211,6 +2294,7 @@
         "blueSporeDensity": 0,
         "depth": 0.2,
         "downfall": 0.8,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -2238,6 +2322,7 @@
         "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -2261,6 +2346,7 @@
         "blueSporeDensity": 0,
         "depth": -1,
         "downfall": 0.5,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
@@ -2287,6 +2373,7 @@
         "blueSporeDensity": 0.25,
         "depth": 0.1,
         "downfall": 0,
+        "foliageSnow": 0,
         "id": 65535,
         "mapWaterColour": {
             "a": 165,
